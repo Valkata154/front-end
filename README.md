@@ -12,6 +12,9 @@ Mainly made from courses taken on Udemy.
 - [Pattern Project](#Pattern-Project)
 - [Museum Of Candy](#Museum-Of-Candy)
 - [Omni Food](#Omni-Food)
+- [Trillo](#Trillo)
+- [Natours](#Natours)
+- [Nexter](#Nexter)
 
 ## Photo Grid
 Very simple but good looking project using HTML and CSS to display a few pictures.
@@ -116,3 +119,32 @@ Has the following functionalities:
 **Extra Small** 
 
 <img width="504" alt="Screenshot 2019-11-02 at 17 06 41" src="https://user-images.githubusercontent.com/45520042/68074473-343ddc80-fd93-11e9-94bb-7612dcfd55ff.png">
+
+## Trillo
+
+Project made using HTML and advanced CSS. Goal of the project was learning how to use Flex box. Also there are cool animations using css and it is made responsive.
+
+**Image** 
+
+<img width="1440" alt="Screenshot 2019-11-18 at 19 58 52" src="https://user-images.githubusercontent.com/45520042/69085477-fcdf5900-0a3d-11ea-9114-bca03c0f177c.png">
+
+## Natours
+
+Project made using HTML and advanced CSS. Goal of the project was mastering floats. Also there are cool animations using css and it is made responsive. Has a lot of hover effects.
+
+**Images** 
+
+<img width="1440" alt="Screenshot 2019-11-18 at 20 01 33" src="https://user-images.githubusercontent.com/45520042/69086680-59427880-0a3e-11ea-929f-5ad58417db5f.png">
+<img width="1440" alt="Screenshot 2019-11-18 at 20 01 40" src="https://user-images.githubusercontent.com/45520042/69086683-59427880-0a3e-11ea-829a-4fa91a0950c0.png">
+<img width="1440" alt="Screenshot 2019-11-18 at 20 01 49" src="https://user-images.githubusercontent.com/45520042/69086685-59427880-0a3e-11ea-9ae7-9edbb455e027.png">
+
+## Nexter
+
+Project made using HTML and advanced CSS. Goal of the project was mastering Grid box. Also there are cool animations using css and it is made responsive. Has a lot of hover effects.
+
+**Images** 
+
+<img width="1440" alt="Screenshot 2019-11-18 at 20 03 48" src="https://user-images.githubusercontent.com/45520042/69087415-9dce1400-0a3e-11ea-80af-ffffff325e15.png">
+<img width="1440" alt="Screenshot 2019-11-18 at 20 03 55" src="https://user-images.githubusercontent.com/45520042/69087419-9dce1400-0a3e-11ea-97cd-2a7617f9aaed.png">
+<img width="1440" alt="Screenshot 2019-11-18 at 20 04 03" src="https://user-images.githubusercontent.com/45520042/69087424-9dce1400-0a3e-11ea-82b1-8e25a3feedb9.png">
+
