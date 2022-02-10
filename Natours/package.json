@@ -18,6 +18,6 @@
   "devDependencies": {
     "autoprefixer": "^9.7.1",
     "concat": "^1.0.3",
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   }
 }
